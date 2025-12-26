@@ -28,7 +28,7 @@ export default function AuthComponent() {
               },
             }}
             providers={[]}
-            redirectTo={`${window.location.origin}/`}
+            redirectTo="https://zenlo-app.vercel.app"
           />
         </div>
       </div>
